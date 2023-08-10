@@ -6,9 +6,7 @@ import logging
 from pvgis_client import PvgisClient
 from cache import Cache
 import parser_wrapper
-import time
 from timeit import default_timer as timer
-from datetime import datetime
 
 
 logging.basicConfig(filename = WD.joinpath("app.log"), level=logging.INFO, force=True)

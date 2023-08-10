@@ -1,0 +1,4 @@
+time,source,device_name,fragment.series,value,unit
+2022-12-02T08:27:45.680Z,547236068,Päikeseenergia,dal.series,97006.2,kWh
+2022-12-02T09:03:53.684Z,547236068,Päikeseenergia,dal.series,97006.3,kWh
+2022-12-07T09:33:23.895Z,547236068,Päikeseenergia,dal.series,97006.3,kWh

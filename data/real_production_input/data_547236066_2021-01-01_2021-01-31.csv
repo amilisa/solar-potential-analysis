@@ -1,0 +1,13 @@
+time,source,device_name,fragment.series,value,unit
+2021-01-01T09:33:51.680Z,547236066,Päikeseenergia,dal.series,53167.41,kWh
+2021-01-01T09:39:37.007Z,547236066,Päikeseenergia,dal.series,53167.5,kWh
+2021-01-01T14:06:28.735Z,547236066,Päikeseenergia,dal.series,53168.7,kWh
+2021-01-04T17:53:58.655Z,547236066,Päikeseenergia,dal.series,53168.7,kWh
+2021-01-06T20:09:23.343Z,547236066,Päikeseenergia,dal.series,53168.7,kWh
+2021-01-09T20:00:44.400Z,547236066,Päikeseenergia,dal.series,53168.7,kWh
+2021-01-10T18:22:37.025Z,547236066,Päikeseenergia,dal.series,53168.7,kWh
+2021-01-19T16:01:12.025Z,547236066,Päikeseenergia,dal.series,53168.7,kWh
+2021-01-25T15:30:53.344Z,547236066,Päikeseenergia,dal.series,53169.6,kWh
+2021-01-26T08:53:18.980Z,547236066,Päikeseenergia,dal.series,53169.6,kWh
+2021-01-27T15:22:10.188Z,547236066,Päikeseenergia,dal.series,53169.81,kWh
+2021-01-28T11:57:49.307Z,547236066,Päikeseenergia,dal.series,53169.9,kWh
