@@ -1,0 +1,11 @@
+time,source,device_name,fragment.series,value,unit
+2020-03-31T22:00:57.001Z,311680867,Maja elektri kuutarbimine,dal.series,5680.680000000001,kWh
+2020-05-01T00:00:31.578Z,311680867,Maja elektri kuutarbimine,dal.series,5930.99,kWh
+2020-05-02T00:00:02.082Z,311680867,Maja elektri kuutarbimine,dal.series,5224.989999999999,kWh
+2020-06-01T12:25:01.269Z,311680867,Maja elektri kuutarbimine,dal.series,4982.849999999999,kWh
+2020-07-06T09:04:05.043Z,311680867,Maja elektri kuutarbimine,dal.series,4504.3,kWh
+2020-07-31T21:00:16.818Z,311680867,Maja elektri kuutarbimine,dal.series,4505.5,kWh
+2020-08-31T21:00:24.124Z,311680867,Maja elektri kuutarbimine,dal.series,4375.4,kWh
+2020-09-30T21:00:21.694Z,311680867,Maja elektri kuutarbimine,dal.series,4210.7,kWh
+2020-10-31T22:00:20.847Z,311680867,Maja elektri kuutarbimine,dal.series,3151.2,kWh
+2020-11-30T22:00:20.434Z,311680867,Maja elektri kuutarbimine,dal.series,3476.7,kWh

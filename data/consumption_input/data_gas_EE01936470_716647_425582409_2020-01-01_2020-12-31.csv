@@ -1,0 +1,24 @@
+time,source,device_name,fragment.series,value,unit
+2020-05-04T08:52:00.212Z,425582409,Kogu gaasitarbimine,dal.series,47.38999999999999,m3
+2020-05-04T08:52:16.503Z,425582409,Kogu gaasitarbimine,dal.series,46.4,m3
+2020-05-04T08:52:16.753Z,425582409,Kogu gaasitarbimine,dal.series,43.279999999999994,m3
+2020-05-04T08:52:16.977Z,425582409,Kogu gaasitarbimine,dal.series,43.589999999999996,m3
+2020-05-04T08:52:17.284Z,425582409,Kogu gaasitarbimine,dal.series,42.82,m3
+2020-05-04T08:52:17.517Z,425582409,Kogu gaasitarbimine,dal.series,42.46999999999999,m3
+2020-05-04T08:52:17.843Z,425582409,Kogu gaasitarbimine,dal.series,42.54999999999999,m3
+2020-05-04T08:52:17.969Z,425582409,Kogu gaasitarbimine,dal.series,43.15999999999999,m3
+2020-05-04T08:52:18.230Z,425582409,Kogu gaasitarbimine,dal.series,43.26999999999999,m3
+2020-05-04T08:52:18.493Z,425582409,Kogu gaasitarbimine,dal.series,42.88999999999999,m3
+2020-05-04T08:52:18.775Z,425582409,Kogu gaasitarbimine,dal.series,44.03999999999999,m3
+2020-05-04T08:52:19.024Z,425582409,Kogu gaasitarbimine,dal.series,43.78999999999999,m3
+2020-05-04T08:52:19.265Z,425582409,Kogu gaasitarbimine,dal.series,43.82999999999999,m3
+2020-05-04T08:52:19.537Z,425582409,Kogu gaasitarbimine,dal.series,44.04999999999999,m3
+2020-05-04T08:52:19.866Z,425582409,Kogu gaasitarbimine,dal.series,44.28999999999999,m3
+2020-05-31T21:00:18.172Z,425582409,Kogu gaasitarbimine,dal.series,1.8899999999999997,m3
+2020-07-03T22:49:01.009Z,425582409,Kogu gaasitarbimine,dal.series,31.9,m3
+2020-07-03T23:12:32.358Z,425582409,Kogu gaasitarbimine,dal.series,31.9,m3
+2020-07-31T21:00:18.201Z,425582409,Kogu gaasitarbimine,dal.series,31.9,m3
+2020-08-31T21:00:17.708Z,425582409,Kogu gaasitarbimine,dal.series,32.8,m3
+2020-09-30T21:00:14.714Z,425582409,Kogu gaasitarbimine,dal.series,35.9,m3
+2020-10-31T22:00:13.944Z,425582409,Kogu gaasitarbimine,dal.series,33.8,m3
+2020-11-30T22:00:17.105Z,425582409,Kogu gaasitarbimine,dal.series,37.1,m3

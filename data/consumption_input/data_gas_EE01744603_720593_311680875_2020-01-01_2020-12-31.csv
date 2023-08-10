@@ -1,0 +1,24 @@
+time,source,device_name,fragment.series,value,unit
+2020-03-31T22:00:53.609Z,311680875,Maja gaasi kuutarbimine,dal.series,22.894000000000002,m3
+2020-04-01T21:48:28.368Z,311680875,Maja gaasi kuutarbimine,dal.series,20.2,m3
+2020-05-04T10:19:53.084Z,311680875,Maja gaasi kuutarbimine,dal.series,21.52,m3
+2020-05-04T10:19:53.614Z,311680875,Maja gaasi kuutarbimine,dal.series,21.379999999999995,m3
+2020-05-04T10:19:53.868Z,311680875,Maja gaasi kuutarbimine,dal.series,21.279999999999998,m3
+2020-05-04T10:19:54.157Z,311680875,Maja gaasi kuutarbimine,dal.series,22.529999999999998,m3
+2020-05-04T10:19:56.758Z,311680875,Maja gaasi kuutarbimine,dal.series,22.759999999999998,m3
+2020-05-04T10:19:59.375Z,311680875,Maja gaasi kuutarbimine,dal.series,22.700000000000003,m3
+2020-05-04T10:19:59.526Z,311680875,Maja gaasi kuutarbimine,dal.series,24.13,m3
+2020-05-04T10:20:01.215Z,311680875,Maja gaasi kuutarbimine,dal.series,23.83,m3
+2020-05-13T23:03:49.410Z,311680875,Maja gaasi kuutarbimine,dal.series,18.549999999999997,m3
+2020-05-13T23:03:50.205Z,311680875,Maja gaasi kuutarbimine,dal.series,14.169999999999996,m3
+2020-05-13T23:03:51.951Z,311680875,Maja gaasi kuutarbimine,dal.series,11.539999999999997,m3
+2020-05-13T23:03:56.871Z,311680875,Maja gaasi kuutarbimine,dal.series,10.349999999999998,m3
+2020-05-13T23:03:59.678Z,311680875,Maja gaasi kuutarbimine,dal.series,7.889999999999996,m3
+2020-05-13T23:04:00.183Z,311680875,Maja gaasi kuutarbimine,dal.series,3.6999999999999975,m3
+2020-05-31T21:00:18.324Z,311680875,Maja gaasi kuutarbimine,dal.series,5.279999999999999,m3
+2020-07-06T09:02:14.875Z,311680875,Maja gaasi kuutarbimine,dal.series,15.2,m3
+2020-07-31T21:00:16.072Z,311680875,Maja gaasi kuutarbimine,dal.series,15.2,m3
+2020-08-31T21:00:15.725Z,311680875,Maja gaasi kuutarbimine,dal.series,15.2,m3
+2020-09-30T21:00:19.471Z,311680875,Maja gaasi kuutarbimine,dal.series,18.7,m3
+2020-10-31T22:00:16.022Z,311680875,Maja gaasi kuutarbimine,dal.series,22.1,m3
+2020-11-30T22:00:19.128Z,311680875,Maja gaasi kuutarbimine,dal.series,17.4,m3
